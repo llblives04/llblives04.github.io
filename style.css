@@ -11,7 +11,7 @@ h1 {
 .multiback {
   width: 100%;
   height: 400px;
-  background-image: url(linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0));
+  background-color: url(linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0));
   /*url("penguin.gif"), url("esteem.jpeg"), url("hugs.jpeg");
   background-repeat: no-repeat, repeat-y, repeat-y, round;*/
   /*background-position: , left, right;*/
@@ -21,6 +21,7 @@ h2 {
   color: violet;
   text-shadow: 3px 3px 4px black;
 }
+
 p {
   text-align: center;
   color: violet;
