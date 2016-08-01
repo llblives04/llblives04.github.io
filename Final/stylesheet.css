@@ -50,6 +50,11 @@ html {
   font-size: 32px;
 }
 
+.entry-content {
+  font-size: 28px;
+  font-family: serif;
+}
+
 .widget-title{
   text-align: center;
 }
