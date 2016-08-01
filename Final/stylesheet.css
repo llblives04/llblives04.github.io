@@ -162,28 +162,28 @@ body {
 
 #About {
   padding-top: 50px;
-  height: 500px;
+  height: 1000px;
   color: #fff;
-  background-color: #1E88E5;
+  background-color: green;
 }
 
 #Services {
   padding-top: 50px;
-  height: 500px;
+  height:1000px;
   color: #fff;
   background-color: #673ab7;
 }
 
 #Clients {
   padding-top: 50px;
-  height: 500px;
+  height: 1000px;
   color: #fff;
   background-color: #ff9800;
 }
 
 #Contact {
   padding-top: 50px;
-  height: 500px;
+  height: 1000px;
   color: #fff;
   background-color: #00bcd4;
 }
