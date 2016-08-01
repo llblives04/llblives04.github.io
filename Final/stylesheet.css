@@ -46,11 +46,12 @@ html {
 
 .entry-title {
   text-align: center;
-  padding-top: 200px;
+  padding-top: 300px;
   font-size: 32px;
 }
 
 .entry-content {
+  padding-top: -50px;
   font-size: 28px;
   font-family: serif;
 }
