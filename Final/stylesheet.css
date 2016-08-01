@@ -154,6 +154,7 @@ h1{
 
 p {
   padding-left: 50px;
+  text-align: center;
 }
 
 body {
@@ -199,5 +200,5 @@ body {
 img {
         display: block;
         margin-left: auto;
-        margin-right: auto 
+        margin-right: auto
 }
