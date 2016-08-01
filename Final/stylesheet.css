@@ -195,4 +195,11 @@ body {
     padding-top: 50px;
     height: 500px;
     color: #fff;
-    background-color: #009688;
+    background-color: #009688;*/
+
+.textwidget{
+  align-items: center;
+  width: auto;
+  height:auto;
+
+}
