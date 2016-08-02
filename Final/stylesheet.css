@@ -1,3 +1,6 @@
+
+
+
 html {
   background: url(http://static.tumblr.com/eab424c90c1a13d63c2c00e5470cf2fa/dc5jxmq/vuFmpal8b/tumblr_static_color_ombre_bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -31,6 +34,7 @@ html {
   padding-bottom: 50px;
   align: center;
   margin: 30px auto 0;
+  color: white;
 }
 
 .site-title{
@@ -48,7 +52,7 @@ html {
 .entry-title {
   text-align: center;
   padding-top: 300px;
-  font-size: 32px;
+  font-size: 14px;
 }
 
 .entry-content {
