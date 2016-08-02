@@ -197,8 +197,10 @@ body {
 }
 
 
-.hideme{
- opacity:1;
+.hideme {
+  margin: 50px;
+  padding: 50px;
+  opacity: 1;
 }
 /*  #section42 {
     padding-top: 50px;
