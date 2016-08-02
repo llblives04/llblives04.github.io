@@ -1,6 +1,6 @@
 $(window).on("load",function() {
   $(window).scroll(function() {
-    $(".fade").each(function() {
+    $(".hideme").each(function() {
       /* Check the location of each desired element */
       var objectBottom = $(this).offset().top + $(this).outerHeight();
       var windowBottom = $(window).scrollTop() + $(window).innerHeight();
