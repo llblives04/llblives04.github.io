@@ -12,7 +12,7 @@ html {
 
 #sidebar {
   position: fixed;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #8888;
   padding: 10px;
   width: 220px;
   height: 200%;
@@ -43,13 +43,13 @@ html {
   text-align: center;
   color: White;
   font-size: 36px;
-  font-family: "Indie Flower", cursive;
+  font-family: 'Indie Flower'
 
 }
 .site-description{
   text-align: center;
   color: White;
-  font-family: "Indie Flower", cursive;
+  font-family: "Indie Flower";
 }
 
 .entry-title {
@@ -74,7 +74,7 @@ html {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    box-shadow: 2px 2px 2px;
+    box-shadow: 2px 2px 2px black;
     height: 40px;
     position: fixed;
     width: 100%;
@@ -228,4 +228,8 @@ body {
      width:300px;
      float:left;
      color: whitE;
+}
+
+a {
+  padding-left: 70px;
 }
