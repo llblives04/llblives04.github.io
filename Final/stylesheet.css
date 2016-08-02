@@ -31,7 +31,6 @@ html {
   padding-bottom: 50px;
   align: center;
   margin: 30px auto 0;
-  color: white;
 }
 
 .site-title{
@@ -39,6 +38,7 @@ html {
   text-align: center;
   color: White;
   font-size: 36px;
+  font-family: Quicksand;
 }
 .site-description{
   text-align: center;
@@ -159,11 +159,6 @@ h1{
   text-align: center;
 }
 
-h2{
-  padding-left: 50px;
-  padding-right: 50px;
-}
-
 p {
   padding-left: 50px;
   text-align: left;
@@ -184,14 +179,14 @@ body {
 #Services {
   padding-top: 50px;
   height:1000px;
-  color: #fff;
+  /*color: #fff;*/
   background-color:  #326081;
 }
 
 #Clients {
   padding-top: 50px;
   height: 1000px;
-  color: #fff;
+  /*color: #fff;*/
   background-color: #24445c;
 }
 
