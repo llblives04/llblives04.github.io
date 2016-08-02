@@ -73,13 +73,13 @@ html {
     top:0
 }
 
-li {
+#nav {
     float: left;
     position: fixed;
 
 }
 
-li a {
+#nav a {
     display: block;
     color: white;
     text-align: center;
@@ -87,7 +87,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+#nav a:hover {
     background-color: #111;
 }
 
