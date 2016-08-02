@@ -1,5 +1,5 @@
-$(document).ready(function() {
 
+<<<<<<< HEAD
   /* Every time the window is scrolled ... */
   $(window).scroll(function() {
 
@@ -23,3 +23,5 @@ $(document).ready(function() {
   });
 
 });
+=======
+>>>>>>> origin/master
