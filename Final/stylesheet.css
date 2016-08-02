@@ -31,6 +31,7 @@ html {
   padding-bottom: 50px;
   align: center;
   margin: 30px auto 0;
+  color: white;
 }
 
 .site-title{
@@ -178,14 +179,14 @@ body {
 #Services {
   padding-top: 50px;
   height:1000px;
-  /*color: #fff;*/
+  color: #fff;
   background-color:  #326081;
 }
 
 #Clients {
   padding-top: 50px;
   height: 1000px;
-  /*color: #fff;*/
+  color: #fff;
   background-color: #24445c;
 }
 
